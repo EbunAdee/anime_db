@@ -28,7 +28,7 @@ This project demonstrates building a web application showcasing a list of anime 
 
 ### Getting Started
 
-1. Clone this repository: `git clone https://github.com/yusifhuseini/anime-vault.git`
+1. Clone this repository: `git clone https://github.com/EbunAdee/anime-vault.git`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 4. Open http://localhost:3000 in your browser
