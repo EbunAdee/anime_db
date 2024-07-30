@@ -227,4 +227,5 @@ export default AnimeCard;
 //   );
 // }
 
-// export default AnimeCard;
+i// export default AnimeCard;
+
